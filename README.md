@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AryanM1223
 - 👀 I’m interested in AI and WebDev
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 📫 How to reach me : codeme1223@gmail.com
 
 
